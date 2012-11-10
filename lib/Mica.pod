@@ -1,0 +1,20 @@
+=pod
+
+=head1 NAME
+
+Mica - The Mica Environment for Perl 5
+
+=head1 AUTHOR
+
+Winfried Trumper E<lt>pub+perl_mica(°)wt.tuxomania.netE<gt>
+
+
+=head1 COPYRIGHT AND LICENSE
+
+Please see L<Mica::License>.
+
+=cut
+
+
+
+
